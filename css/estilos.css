@@ -106,17 +106,23 @@
 .juegos article{
 	margin-bottom: 20px;
 }
+
+#mapaPequeno{
+	display: none;
+}
 /* Media Querie  */
 @media screen and (max-width: 1400px) {
 	#down-view {
 		width: 70%;
 	}
+
 }
 
 @media screen and (max-width: 1200px) {
 	#down-view {
 		width: 65%;
 	}	
+
 }
 
 @media screen and (max-width: 768px) {
@@ -133,6 +139,12 @@
 		height: 200px;	
 			
 	}
+	#mapaGrande {
+		display: none;
+	}
+	#mapaPequeno{
+	display: inline-block;
+}
 
 }
 
