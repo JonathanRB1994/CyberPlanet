@@ -1,2 +1,2 @@
 # CyberPlanet
-Página páblica para publicaciones.
+Página páblica.
